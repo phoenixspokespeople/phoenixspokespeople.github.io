@@ -3,26 +3,27 @@ layout: page
 title: about
 permalink: /about/
 ---
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="/img/logo-square.svg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+Phoenix Spokes People is a group of urban bicyclists dedicated to making Phoenix a friendlier, more welcoming place to ride a bike.  Organized in November of 2012, word spread quickly and we are fast becoming a popular group to join in the bicycling community. One of our main goals is to get more bicycle infrastructure in the City of Phoenix and we've been actively involved in communicating our needs to the city, most recently through speaking at the community budget hearings.
+
+We believe that bicycling should be an easily accessible form of transportation for people of all ages, incomes and abilities. We imagine a Phoenix with people dressed up or down - going to work or heading out for a night on the town - and getting there safely by riding in a proper bike lane.
+
+Please join us at one of our events to get to know us!
 
 
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+<a href="mailto:bike@phoenixspokespeople.org"><i class="fa fa-envelope-square"></i></a>
+<a href="//twitter.com/phxspokespeople" target="_blank"><i class="fa fa-twitter-square"></i></a>
+<a href="//www.facebook.com/PhoenixSpokesPeople" target="_blank"><i class="fa fa-facebook-square"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+We'd love to hear from you.
 </div>
 
