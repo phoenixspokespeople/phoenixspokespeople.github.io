@@ -1,6 +1,14 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: About
+  url: /about/
+  excerpt: "Information about Phoenix Spokes People"
+
+- title: Events
+  url: /events/
+  excerpt: "Bicycle related events in Phoenix"
+
+- title: Resources
+  url: /resources/
+  excerpt: "Useful resources for bicycling in Phoenix"
+

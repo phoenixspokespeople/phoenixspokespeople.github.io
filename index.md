@@ -1,11 +1,38 @@
 ---
-layout: archive
+layout: home
 permalink: /
-title: "Latest Posts"
+image:
+  feature: group-orpheum.png
 ---
 
 <div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
+
+<div class="tile">
+  <h2 class="post-title">Who?</h2>
+  <p class="post-excerpt">
+    Phoenix Spokes People is a group of urban bicyclists dedicated to making Phoenix a friendlier, more welcoming place to ride a bike.
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">What?</h2>
+  <p class="post-excerpt">
+  We imagine a Phoenix with people dressed up or down &mdash; going to work or heading out for a night on the town &ndash; and getting there safely by riding in a proper bike lane.
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Why?</h2>
+  <p class="post-excerpt">
+  We believe that bicycling should be an easily accessible form of transportation for people of all ages, incomes and abilities.
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">How?</h2>
+  <p class="post-excerpt">
+    Increasing bicycling infrastructure in Phoenix by actively communicating our needs to the City of Phoenix and local businesses.
+  </p>
+</div><!-- /.tile -->
+
 </div><!-- /.tiles -->
