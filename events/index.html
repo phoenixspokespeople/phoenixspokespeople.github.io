@@ -1,8 +1,12 @@
 ---
 layout: article
 permalink: /events/
-title: "Events"
+title: "Upcoming events"
 share: false
 ---
 
-Coming soon.
+<div class="tiles">
+  {% for post in site.categories.events reversed %}
+    {% include post-grid.html %}
+  {% endfor %}
+</div>
