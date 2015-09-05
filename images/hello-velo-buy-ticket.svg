@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="249.79102"
+   height="87.914726"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="hello-velo-buy-ticket.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5395"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="SemiCircleIn"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="SemiCircleIn"
+       style="overflow:visible">
+      <path
+         id="path4761"
+         d="m -0.37450702,-0.04569258 c 0,2.75999998 2.24000002,4.99999998 5.00000002,4.99999998 l 0,-10 c -2.76,0 -5.00000002,2.24 -5.00000002,5.00000002 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotL"
+       style="overflow:visible">
+      <path
+         id="path4644"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4059"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4007"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3927"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3923"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4059-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4059-4-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4007-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4007-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4059-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4059-2-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4059-2-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3223"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4069"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4158"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="239.34341"
+     inkscape:cy="103.97383"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-209.96736,-560.29731)">
+    <path
+       sodipodi:type="star"
+       style="opacity:0.5;fill:#c60046;fill-opacity:1;stroke:none"
+       id="path6166"
+       sodipodi:sides="7"
+       sodipodi:cx="-68.881424"
+       sodipodi:cy="92.026947"
+       sodipodi:r1="99.126678"
+       sodipodi:r2="70.093147"
+       sodipodi:arg1="0.76825699"
+       sodipodi:arg2="1.2170559"
+       inkscape:flatsided="true"
+       inkscape:rounded="-3.469447e-18"
+       inkscape:randomized="4"
+       d="M 207.84337,343.00183 -138.37168,254.1021 -207.03934,439.2666 -91.472006,254.38829 -336.63389,284.02022 378.465,79.445485 99.872305,408.29399 z"
+       transform="matrix(0.38422477,-0.04414975,0.12204681,0.14967407,304.64668,573.32448)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.5;fill:#e23600;fill-opacity:1;stroke:none"
+       id="path6178"
+       sodipodi:sides="6"
+       sodipodi:cx="-260.39062"
+       sodipodi:cy="-17.999353"
+       sodipodi:r1="193.37186"
+       sodipodi:r2="167.46494"
+       sodipodi:arg1="0.99312038"
+       sodipodi:arg2="1.5167192"
+       inkscape:flatsided="true"
+       inkscape:rounded="-3.469447e-18"
+       inkscape:randomized="0.8"
+       d="m -220.93422,150.65617 -126.72515,21.46376 -44.79091,-128.227248 163.47644,-337.694602 -48.47657,27.36716 272.3302268,323.760463 z"
+       inkscape:transform-center-x="-13.188745"
+       inkscape:transform-center-y="-3.1971187"
+       transform="matrix(0.21408419,0,0,0.07462654,394.65483,582.22273)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.5;fill:#67cc00;fill-opacity:1;stroke:none"
+       id="path6170"
+       sodipodi:sides="5"
+       sodipodi:cx="-40.848289"
+       sodipodi:cy="92.827888"
+       sodipodi:r1="47.802502"
+       sodipodi:r2="43.068565"
+       sodipodi:arg1="1.0246298"
+       sodipodi:arg2="1.6529483"
+       inkscape:flatsided="true"
+       inkscape:rounded="-3.469447e-18"
+       inkscape:randomized="4"
+       d="M 106.61135,247.03558 77.158469,131.61695 -109.32661,-97.055931 -160.85011,30.4539 l 56.73068,157.01346 z"
+       inkscape:transform-center-x="-5.8870552"
+       inkscape:transform-center-y="10.311235"
+       transform="matrix(0.22293013,-0.14641618,0.07512933,0.15522911,265.40248,576.44715)" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.38187075px;font-style:normal;font-weight:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="308.6019"
+       y="626.36914"
+       id="text4059"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4061"
+         x="626.36914"
+         y="308.6019" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.42435455px;font-style:normal;font-weight:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="240.12766"
+       y="605.81177"
+       id="text8380"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan8382"
+         x="240.12766"
+         y="605.81177"
+         style="letter-spacing:0.79773384px">Buy  a  ticket</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:0.5;fill:#009f4e;fill-opacity:1;stroke:none"
+       id="path8384"
+       sodipodi:sides="6"
+       sodipodi:cx="1214.3564"
+       sodipodi:cy="301.43692"
+       sodipodi:r1="70.256424"
+       sodipodi:r2="60.843849"
+       sodipodi:arg1="3.0045265"
+       sodipodi:arg2="3.5281253"
+       inkscape:flatsided="true"
+       inkscape:rounded="-3.469447e-18"
+       inkscape:randomized="0.8"
+       d="m 1165.2428,316.92816 -17.3226,-84.53922 40.7273,5.04552 95.9746,4.51436 -50.5409,93.36071 -38.8763,37.91903 z"
+       transform="matrix(0.15954677,0,0,0.15954677,109.64796,524.68775)"
+       inkscape:transform-center-x="0.1779369"
+       inkscape:transform-center-y="0.62137643" />
+  </g>
+</svg>

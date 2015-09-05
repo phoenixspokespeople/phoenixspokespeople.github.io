@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: event
 title: "Halloween Party at Phoenix Ale"
 categories: events
 excerpt: "Spook-tacular"

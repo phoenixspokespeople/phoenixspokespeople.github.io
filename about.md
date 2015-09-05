@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: home
 permalink: /about/
 title: "About Phoenix Spokes People"
 share: false

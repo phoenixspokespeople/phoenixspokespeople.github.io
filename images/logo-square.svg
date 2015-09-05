@@ -14,7 +14,10 @@
    id="svg3093"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 4">
+   sodipodi:docname="logo-square.svg"
+   inkscape:export-filename="/home/dave/code/phoenixspokespeople.github.io/images/logo-square-400.png"
+   inkscape:export-xdpi="30"
+   inkscape:export-ydpi="30">
   <defs
      id="defs3095">
     <inkscape:path-effect
@@ -35,10 +38,10 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="238.49234"
+     inkscape:cx="-117.08135"
      inkscape:cy="586.42602"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -140,7 +143,7 @@
        sodipodi:type="star" />
     <path
        transform="matrix(1.3031227,0,0,1.3031227,-233.17579,74.638467)"
-       d="m 487.96313,435.66406 a 101.83234,101.83234 0 1 1 -203.66467,0 101.83234,101.83234 0 1 1 203.66467,0 z"
+       d="m 487.96313,435.66406 c 0,56.24045 -45.59189,101.83234 -101.83233,101.83234 -56.24045,0 -101.83234,-45.59189 -101.83234,-101.83234 0,-56.24044 45.59189,-101.83233 101.83234,-101.83233 56.24044,0 101.83233,45.59189 101.83233,101.83233 z"
        sodipodi:ry="101.83234"
        sodipodi:rx="101.83234"
        sodipodi:cy="435.66406"
@@ -184,7 +187,9 @@
        inkscape:path-effect="#path-effect4069"
        inkscape:original-d="m 136.65415,509.17303 c 40.68669,506.37827 1.94703,506.37827 0,506.37827"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="38.400002"
+       inkscape:export-ydpi="38.400002" />
     <path
        style="fill:none;stroke:#000000;stroke-width:11.74050426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 747.39038,394.07558 114.94679,91.68144"
@@ -200,7 +205,7 @@
        sodipodi:cy="90.844322"
        sodipodi:rx="6.2053571"
        sodipodi:ry="3.7946429"
-       d="m 150.26786,90.844322 a 6.2053571,3.7946429 0 1 1 -12.41072,0 6.2053571,3.7946429 0 1 1 12.41072,0 z"
+       d="m 150.26786,90.844322 c 0,2.095724 -2.77824,3.794643 -6.20536,3.794643 -3.42712,0 -6.20536,-1.698919 -6.20536,-3.794643 0,-2.095723 2.77824,-3.794643 6.20536,-3.794643 3.42712,0 6.20536,1.69892 6.20536,3.794643 z"
        transform="matrix(2.3669177,0,0,1.7180407,516.06561,328.42558)" />
     <path
        sodipodi:type="arc"
@@ -210,7 +215,7 @@
        sodipodi:cy="90.844322"
        sodipodi:rx="6.2053571"
        sodipodi:ry="3.7946429"
-       d="m 150.26786,90.844322 a 6.2053571,3.7946429 0 1 1 -12.41072,0 6.2053571,3.7946429 0 1 1 12.41072,0 z"
+       d="m 150.26786,90.844322 c 0,2.095724 -2.77824,3.794643 -6.20536,3.794643 -3.42712,0 -6.20536,-1.698919 -6.20536,-3.794643 0,-2.095723 2.77824,-3.794643 6.20536,-3.794643 3.42712,0 6.20536,1.69892 6.20536,3.794643 z"
        transform="matrix(2.3669177,0,0,1.7180407,407.82746,237.20901)" />
     <text
        xml:space="preserve"

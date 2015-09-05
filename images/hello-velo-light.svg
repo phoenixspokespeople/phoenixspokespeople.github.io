@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="hello-velo-light.svg">
+   sodipodi:docname="hello-velo.svg">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -138,7 +138,7 @@
      transform="translate(64.574857,102.00878)">
     <path
        sodipodi:type="star"
-       style="fill:#e23600;fill-opacity:1;stroke:none"
+       style="fill:#e23600;fill-opacity:1;stroke:none;opacity:0.5"
        id="path6178"
        sodipodi:sides="6"
        sodipodi:cx="-260.39062"
@@ -156,7 +156,7 @@
        transform="matrix(0.99570743,0,0,0.94162305,697.5216,174.64189)" />
     <path
        sodipodi:type="star"
-       style="fill:#67cc00;fill-opacity:1;stroke:none"
+       style="fill:#67cc00;fill-opacity:1;stroke:none;opacity:0.5"
        id="path6170"
        sodipodi:sides="5"
        sodipodi:cx="-40.848289"
@@ -174,7 +174,7 @@
        transform="matrix(1.3972714,-0.91770066,0.47089221,0.97293802,173.4349,193.60753)" />
     <path
        sodipodi:type="star"
-       style="fill:#c60046;fill-opacity:1;stroke:none"
+       style="fill:#c60046;fill-opacity:1;stroke:none;opacity:0.5"
        id="path6166"
        sodipodi:sides="7"
        sodipodi:cx="-68.881424"
@@ -190,7 +190,7 @@
        transform="matrix(0.92035988,-0.24852035,0.29234707,0.8425202,400.00407,216.14448)" />
     <path
        sodipodi:type="star"
-       style="fill:#009f4e;fill-opacity:1;stroke:none"
+       style="fill:#009f4e;fill-opacity:1;stroke:none;opacity:0.5"
        id="path6176"
        sodipodi:sides="6"
        sodipodi:cx="-221.99202"
