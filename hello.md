@@ -17,8 +17,10 @@ Thanks for riding your bike.
 </p>
 
 
-<a href="#">Sign up for our mailing list.</a>
+Sign up for our mailing list:
+
+{% include mailchimp-signup.html %}
 
 <a href="/">Check out our website.</a>
 
-<a href="#">Like us on Facebook.</a>
+<a href="https://www.facebook.com/PhoenixSpokesPeople">Like us on Facebook.</a>
