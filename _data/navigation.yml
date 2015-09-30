@@ -2,13 +2,13 @@
 
 - title: About
   url: /about/
-  excerpt: "Information about Phoenix Spokes People"
+  excerpt: "Who we are and what we're doing"
 
-- title: Events
-  url: /events/
-  excerpt: "Bicycle related events in Phoenix"
-
-- title: Resources
-  url: /resources/
-  excerpt: "Useful resources for bicycling in Phoenix"
+# - title: Events
+#   url: /events/
+#   excerpt: "Bicycle related events in Phoenix"
+#
+# - title: Resources
+#   url: /resources/
+#   excerpt: "Useful resources for bicycling in Phoenix"
 
