@@ -24,3 +24,5 @@ Sign up for our mailing list:
 <a href="/">Check out our website.</a>
 
 <a href="https://www.facebook.com/PhoenixSpokesPeople">Like us on Facebook.</a>
+
+<a href="http://www.rustyspoke.org/">Visit our friends at the Rusty Spoke</a>
