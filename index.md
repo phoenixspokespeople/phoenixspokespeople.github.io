@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  #feature: group-orpheum.png
+  feature: group-fez.png
 ---
 
 <div class="tiles">
