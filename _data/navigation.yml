@@ -8,10 +8,10 @@
   url: /contact/
   excerpt: "Get in touch with us"
 
-# - title: Events
-#   url: /events/
-#   excerpt: "Bicycle related events in Phoenix"
-#
+- title: Events
+  url: /events/
+  excerpt: "Bicycle related events in Phoenix"
+
 # - title: Resources
 #   url: /resources/
 #   excerpt: "Useful resources for bicycling in Phoenix"

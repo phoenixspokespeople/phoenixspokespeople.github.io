@@ -1,11 +1,13 @@
 ---
 layout: event
-title: "Halloween Party at Phoenix Ale"
+title: "Halloween Party"
 categories: events
-excerpt: "Spook-tacular"
+published: true
+excerpt: "Join us this Halloween at Phoenix Ale Brewery"
 image:
   teaser: pumpkin.jpg
+plasso-event: jsvKfMNpgL
 ---
 
-Booo, scary
+Join us this Halloween (October 31st, 2015) at Phoenix Ale Brewery!
 

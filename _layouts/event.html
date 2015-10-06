@@ -21,6 +21,13 @@ layout: default
     <div class="inner-wrap">
       <div id="content" class="page-content" itemprop="articleBody">
         {{ content }}
+
+        {% if page.plasso-event %}
+          <a href="https://plasso.co/s/{{page.plasso-event}}" class="btn-success plo-button">
+            Buy a ticket
+          </a>
+          <script type='text/javascript' src='https://plasso.co/embed/v2/embed.js'></script>
+        {% endif %}
       </div><!-- /.content -->
     </div><!-- /.inner-wrap -->
   </article><!-- ./wrap -->
