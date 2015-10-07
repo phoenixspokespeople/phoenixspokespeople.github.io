@@ -17,12 +17,14 @@ Masthead
   .inner-wrap {
     @include outer-container;
   }
+
 }
 .site-title {
   @include row;
   @include media($large) {
     @include span-columns(4);
   }
+
   padding: 0;
   height: $masthead-height;
   text-decoration: none;
