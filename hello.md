@@ -21,6 +21,6 @@ Sign up for our mailing list:
 
 {% include mailchimp-signup.html %}
 
-<a href="/">Check out our website.</a>
+<a href="/events">Join us at one of our events</a>.
 
 <a href="https://www.facebook.com/PhoenixSpokesPeople">Like us on Facebook.</a>
