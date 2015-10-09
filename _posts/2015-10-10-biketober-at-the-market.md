@@ -5,6 +5,7 @@ categories: events
 published: true
 excerpt: "Join us at the Downtown Phoenix Public Market for a special day of bicycle wares and bike goodness!"
 image:
+  teaser: phoenix-public-market-open-air-market.png
   feature: biketober-at-the-market.jpg
 skip-title: true
 facebook-event: 747454852052219
