@@ -10,14 +10,14 @@ image:
 <div class="tile">
   <h2 class="post-title">Who?</h2>
   <p class="post-excerpt">
-    Phoenix Spokes People is a group of urban bicyclists dedicated to making Phoenix a friendlier, more welcoming place to ride a bike.
+    We are a group of cyclists dedicated to making Phoenix a friendlier, more welcoming place to ride a bike.
   </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">What?</h2>
   <p class="post-excerpt">
-  We imagine a Phoenix with people dressed up or down &mdash; going to work or heading out for a night on the town &ndash; and getting there safely by riding in a proper bike lane.
+  We imagine a Phoenix with people dressed up or down &mdash; going to work or heading out for a night on the town &ndash; and getting there safely on their bike.
   </p>
 </div><!-- /.tile -->
 
@@ -36,3 +36,9 @@ image:
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
+
+<div style="clear: both;">
+<p style="text-align: center;">
+  Come and say, "hello" at <a href="events/">one of our many events</a>.
+</p>
+</div>
