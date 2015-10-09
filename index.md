@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: group-fez.png
+  feature: biketober-banner.jpg
 ---
 
 <div class="tiles">

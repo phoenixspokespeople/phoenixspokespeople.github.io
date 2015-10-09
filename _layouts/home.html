@@ -36,10 +36,12 @@
     {% include google-analytics.html %}
 
     {% if page.image.feature %}
-    <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
-      <div class="wrap page-lead-content">
-      </div><!-- /.page-lead-content -->
-    </div><!-- /.page-lead -->
+    <a href="/events">
+      <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+        <div class="wrap page-lead-content">
+        </div><!-- /.page-lead-content -->
+      </div><!-- /.page-lead -->
+    </a>
     {% endif %}
 
     <div id="page-wrapper">
