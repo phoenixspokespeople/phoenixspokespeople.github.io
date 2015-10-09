@@ -9,6 +9,7 @@ image:
   feature: halloween-banner.jpg
 skip-title: true
 plasso-event: jsvKfMNpgL
+facebook-event: 1660535854158458
 ---
 
 Get your costumes ready because we're having a Halloween bash!

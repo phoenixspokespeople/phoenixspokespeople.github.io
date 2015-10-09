@@ -7,6 +7,7 @@ excerpt: "Join us at the Downtown Phoenix Public Market for a special day of bic
 image:
   feature: biketober-at-the-market.jpg
 skip-title: true
+facebook-event: 747454852052219
 ---
 
 Join us at the [Downtown Phoenix Public Market](http://www.phxpublicmarket.com/) for a special day of bicycle wares and bike goodness!

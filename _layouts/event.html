@@ -28,6 +28,13 @@ layout: default
           </a>
           <script type='text/javascript' src='https://plasso.co/embed/v2/embed.js'></script>
         {% endif %}
+
+        {% if page.facebook-event %}
+          <a class="btn-social facebook" href="https://www.facebook.com/events/{{page.facebook-event}}/">
+            Join on Facebook
+          </a>
+        {% endif %}
+
       </div><!-- /.content -->
     </div><!-- /.inner-wrap -->
   </article><!-- ./wrap -->
