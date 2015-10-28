@@ -11,7 +11,7 @@ Thanks for riding your bike.
 
 <p>
   We are
-  <img src="{{ site.url }}/images/logo-inline.svg" alt="Phoenix Spokes People" class="logo-inline"/>.
+  <img src="{{ site.url }}/images/logo-inline.png" alt="Phoenix Spokes People" class="logo-inline"/>.
   <br />
   We're making Phoenix a friendlier place to ride, and we're here to help!
 </p>
