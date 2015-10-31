@@ -2,7 +2,7 @@
 layout: event
 title: "Zombie Walk 7"
 categories: events
-published: true
+published: false
 excerpt: "Ride with the undead as part of Zombie Walk 7!"
 image:
   teaser: zombie-walk-7-teaser.jpg

@@ -2,7 +2,7 @@
 layout: event
 title: "Fancy Ride to the Museum"
 categories: events
-published: true
+published: false
 excerpt: "Join us for the FREE night at the Phoenix Art Museum"
 image:
   teaser: phx-art-logo.jpg
