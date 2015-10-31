@@ -8,7 +8,6 @@ image:
   teaser: pumpkin.jpg
   feature: halloween-banner.jpg
 skip-title: true
-plasso-event: jsvKfMNpgL
 facebook-event: 1660535854158458
 ---
 
@@ -26,4 +25,4 @@ Get your costumes ready because we're having a Halloween bash!
 
 Cost is only $5 and proceeds will benefit bicycle advocacy in Phoenix.
 
-**Tickets are limited so get yours early!**
+**Tickets available at the door**
