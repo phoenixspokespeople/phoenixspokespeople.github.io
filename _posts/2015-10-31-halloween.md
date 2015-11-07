@@ -2,7 +2,7 @@
 layout: event
 title: "Halloween Party"
 categories: events
-published: true
+published: false
 excerpt: "Join us this Halloween at Phoenix Ale Brewery"
 image:
   teaser: pumpkin.jpg
