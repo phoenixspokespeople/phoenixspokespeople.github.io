@@ -2,7 +2,7 @@
 layout: event
 title: "Bikes vs Cars at Filmbar"
 categories: events
-published: true
+published: false
 excerpt: "Join us for a short ride, and a movie about bikes and cars."
 image:
   teaser: bikes-vs-cars-square.png

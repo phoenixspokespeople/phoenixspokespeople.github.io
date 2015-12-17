@@ -2,7 +2,7 @@
 layout: event
 title: "Black Friday Ride"
 categories: events
-published: true
+published: false
 excerpt: "Skip the shopping malls and go for a bike ride on Black Friday morning"
 image:
   teaser: bicycle-nomad-logo-square.jpg

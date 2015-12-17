@@ -2,7 +2,7 @@
 layout: event
 title: "Tiny Tire Tweed Tour"
 categories: events
-published: true
+published: false
 excerpt: "Don your dapperest tweed for our multi-city, multi-modal tiny tire extravaganza!"
 facebook-event: 1013118628733819
 ---
