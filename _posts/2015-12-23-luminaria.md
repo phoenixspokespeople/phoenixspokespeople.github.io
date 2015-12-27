@@ -2,7 +2,7 @@
 layout: event
 title: "Luminaria Ride"
 categories: events
-published: true
+published: false
 excerpt: "Our annual Luminaria Ride though the Willo luminaria"
 image:
   feature: luminaria_banner.jpg
