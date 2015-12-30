@@ -2,7 +2,7 @@
 layout: event
 title: "Bicycle Nomad Café Second Saturday Bike Ride"
 categories: events
-published: false
+published: true
 excerpt: "A casual paced, no-drop ride of about 19 miles though a few Phoenix neighborhoods. "
 image:
   teaser: bicycle-nomad-logo-square.jpg
