@@ -2,7 +2,7 @@
 layout: event
 title: "Bike Lanes for 3rd Street: Public Input Session"
 categories: events
-published: true
+published: false
 excerpt: "Share you ideas for bike lanes and pedestrian mobility on 3rd Street."
 image:
   feature: public-input-bike-lanes.jpg
