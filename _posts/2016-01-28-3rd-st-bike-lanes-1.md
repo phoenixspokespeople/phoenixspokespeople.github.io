@@ -19,3 +19,5 @@ Share you ideas for bike lanes and pedestrian mobility on *3rd Street* between *
 The city of Phoenix Street Transportation Department is seeking input from residents, commuters and business owners, so here's your chance! 
 
 You can find out more about the project [here](http://1.usa.gov/1KfK9SO).
+
+If you aren't able to attend this, there is [a second opportunity](http://www.phoenixspokespeople.org/events/3rd-st-bike-lanes-2/) on Feb 2nd.
