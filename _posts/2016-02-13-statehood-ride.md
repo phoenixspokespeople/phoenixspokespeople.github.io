@@ -2,7 +2,7 @@
 layout: event
 title: "Statehood Ride"
 categories: events
-published: true
+published: false
 excerpt: "Join us for a history tour around Phoenix as we visit some of the structures that have been around for over 100 years"
 image:
   teaser: bicycle-nomad-logo-square.jpg
