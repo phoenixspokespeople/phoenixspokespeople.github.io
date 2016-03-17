@@ -2,7 +2,7 @@
 layout: event
 title: "St. Patrick's Day Ride"
 categories: events
-published: true
+published: false
 excerpt: "Bicycle Nomad Café Second Saturday Ride - St. Patrick's Day Edition"
 skip-title: true
 image:
