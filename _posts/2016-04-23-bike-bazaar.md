@@ -7,6 +7,7 @@ excerpt: "a special day of bicycle wares and bike goodness"
 skip-title: false
 image:
   teaser: phoenix-public-market-open-air-market.png
+facebook-event: 593430794171876
 ---
 
 Join us at the at [Downtown Phoenix Public Market](http://phxpublicmarket.com/openair/) for a special day of bicycle wares and bike goodness!
