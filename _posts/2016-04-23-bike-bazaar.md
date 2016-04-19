@@ -4,9 +4,10 @@ title: "Bike Bazaar"
 categories: events
 published: true
 excerpt: "a special day of bicycle wares and bike goodness"
-skip-title: false
+skip-title: true
 image:
   teaser: phoenix-public-market-open-air-market.png
+  feature: bike-bazaar-banner.jpg
 facebook-event: 593430794171876
 ---
 
