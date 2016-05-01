@@ -2,7 +2,7 @@
 layout: event
 title: "Bike Bazaar"
 categories: events
-published: true
+published: false
 excerpt: "a special day of bicycle wares and bike goodness"
 skip-title: true
 image:
