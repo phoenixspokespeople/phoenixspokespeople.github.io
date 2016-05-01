@@ -2,7 +2,7 @@
 layout: event
 title: "Second Saturday Ride - Best of Central Phoenix Edition"
 categories: events
-published: false
+published: true
 excerpt: "We'll have a nice ride though historic neighborhoods, starting and ending downtown."
 skip-title: true
 image:
