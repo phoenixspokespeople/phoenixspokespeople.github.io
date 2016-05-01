@@ -2,7 +2,7 @@
 layout: event
 title: "Pedal Public Art"
 categories: events
-published: true
+published: false
 excerpt: "Pedal public art"
 skip-title: true
 image:
