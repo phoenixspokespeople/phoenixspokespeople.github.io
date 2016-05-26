@@ -2,7 +2,7 @@
 layout: event
 title: "3rd and 5th Avenues Design Charettes"
 categories: events
-published: true
+published: false
 excerpt: "Help redesign the Sonoran Bike Way on 3rd and 5th Avenues "
 image:
   feature: 3rd-5th-design.jpg
