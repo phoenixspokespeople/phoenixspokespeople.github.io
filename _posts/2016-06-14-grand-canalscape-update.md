@@ -2,7 +2,7 @@
 layout: event
 title: "Grand Canalscape Design Update Meeting"
 categories: events
-published: true
+published: false
 excerpt: "Paved paths, landscaping, lighting, public art and street crossings are coming to the Grand Canal this fall"
 image:
   feature: canalscape-update-banner.jpg
