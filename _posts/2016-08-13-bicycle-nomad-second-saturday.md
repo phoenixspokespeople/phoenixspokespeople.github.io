@@ -6,7 +6,7 @@ published: true
 excerpt: "A casual paced, no-drop ride of about 12 miles"
 image:
   teaser: bicycle-nomad-logo-square.jpg
-  feature: second-saturday-banner.jpg
+  feature: second-saturday-banner.png
 ---
 
 **Saturday, August 13th**
