@@ -18,10 +18,11 @@ facebook-event: 1807748169493929
 
 The city of Phoenix Street Transportation Department is advancing efforts to improve safety and develop a stronger pedestrian and bicycle environment along east **Van Buren Street** between **Seventh and 40th streets**.
 
+<iframe
+src="https://www.google.com/maps/d/u/3/embed?mid=1iWvbNdbPLK2YAV3E-hrRFcT4Bvc"
+width="640" height="480"></iframe>
+
 You can find out more about the project [here](https://www.phoenix.gov/streetssite/Pages/Van-Buren-Street---7th-Street-to-40th-Street0726-8439.aspx).
 
 Join Phoenix Spokes People members and help us show the community is keen to see these projects realized.
 
-<iframe
-src="https://www.google.com/maps/d/u/3/embed?mid=1iWvbNdbPLK2YAV3E-hrRFcT4Bvc"
-width="640" height="480"></iframe>
