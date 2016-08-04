@@ -6,6 +6,8 @@ published: true
 excerpt: "Residents, commuters, property owners and business owners are invited to review preliminary design plans and provide input."
 image:
   teaser: van-buren.jpg
+  feature: public-input-session-banner.jpg
+facebook-event: 1807748169493929
 ---
 
 **Tuesday, Aug. 16, 6 p.m. – 8 p.m.**
