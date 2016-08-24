@@ -2,7 +2,7 @@
 layout: event
 title: "Van Buren Street Improvement Project Public Open House"
 categories: events
-published: true
+published: false
 excerpt: "Residents, commuters, property owners and business owners are invited to review preliminary design plans and provide input."
 image:
   teaser: van-buren.jpg

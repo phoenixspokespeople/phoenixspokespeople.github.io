@@ -2,7 +2,7 @@
 layout: event
 title: "Bicycle Nomad Café Second Saturday Bike Ride"
 categories: events
-published: true
+published: false
 excerpt: "A casual paced, no-drop ride of about 12 miles"
 image:
   teaser: bicycle-nomad-logo-square.jpg
