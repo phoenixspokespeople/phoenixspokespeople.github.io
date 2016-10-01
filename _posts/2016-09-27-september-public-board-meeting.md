@@ -2,7 +2,7 @@
 layout: event
 title: "September Public Board Meeting"
 categories: events
-published: true
+published: false
 excerpt: "Join us for our first Public Board Meeting"
 facebook-event: 182648115489995
 image:

@@ -2,7 +2,7 @@
 layout: event
 title: "Bicycle Commuting 101"
 categories: events
-published: true
+published: false
 excerpt: "Are you interested in getting around by bike, but not sure how?"
 image:
   teaser: Bike-101-LOGO-233x118.jpg
