@@ -1,6 +1,8 @@
 ---
 layout: home
 permalink: /
+image:
+  feature: biketober-banner.jpg
 ---
 
 <div class="tiles">
