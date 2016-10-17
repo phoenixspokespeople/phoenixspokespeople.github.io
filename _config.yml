@@ -18,6 +18,8 @@ highlighter: rouge
 gems:
   - jekyll-sitemap
 
+future: true
+
 collections:
   events:
     output: true
