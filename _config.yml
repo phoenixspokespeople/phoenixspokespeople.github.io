@@ -22,4 +22,10 @@ collections:
   events:
     output: true
 
+defaults:
+  - scope:
+      type: events
+    values:
+      layout: event
+
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

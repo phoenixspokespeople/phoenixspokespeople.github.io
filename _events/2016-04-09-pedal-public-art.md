@@ -1,7 +1,5 @@
 ---
-layout: event
 title: "Pedal Public Art"
-categories: events
 published: false
 excerpt: "Pedal public art"
 skip-title: true

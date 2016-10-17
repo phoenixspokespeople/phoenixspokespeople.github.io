@@ -1,7 +1,5 @@
 ---
-layout: event
 title: "Public input session for Missouri Avenue"
-categories: events
 published: true
 excerpt: "The city of Phoenix Street Transportation Department is proposing to reduce the number of lanes on Missouri Avenue between 19th Avenue and 24th Street"
 skip-title: true

@@ -1,7 +1,5 @@
 ---
-layout: event
 title: "Luminaria Ride"
-categories: events
 published: false
 excerpt: "Our annual Luminaria Ride though the Willo luminaria"
 image:

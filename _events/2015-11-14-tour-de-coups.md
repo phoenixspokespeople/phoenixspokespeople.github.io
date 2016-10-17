@@ -1,7 +1,5 @@
 ---
-layout: event
 title: "7th Annual Tour de Coups"
-categories: events
 published: false
 excerpt: "A community tour and fundraising event showcasing backyard hen houses and sustainable gardening practices in an urban setting."
 image:

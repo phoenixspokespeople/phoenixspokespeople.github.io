@@ -1,7 +1,5 @@
 ---
-layout: event
 title: "Bicycle Commuting 101"
-categories: events
 published: false
 excerpt: "Are you interested in getting around by bike, but not sure how?"
 image:

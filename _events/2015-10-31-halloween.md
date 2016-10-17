@@ -1,7 +1,5 @@
 ---
-layout: event
 title: "Halloween Party"
-categories: events
 published: false
 excerpt: "Join us this Halloween at Phoenix Ale Brewery"
 image:

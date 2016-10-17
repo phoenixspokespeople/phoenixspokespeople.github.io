@@ -1,7 +1,5 @@
 ---
-layout: event
 title: "Biketober at the Market"
-categories: events
 published: false
 excerpt: "Join us at the Downtown Phoenix Public Market for a special day of bicycle wares and bike goodness!"
 image:

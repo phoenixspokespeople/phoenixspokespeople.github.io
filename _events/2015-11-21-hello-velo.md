@@ -1,7 +1,5 @@
 ---
-layout: event
 title: "Hello Velo"
-categories: events
 published: false
 excerpt: "It's a thing"
 image:

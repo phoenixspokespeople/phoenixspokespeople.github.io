@@ -1,7 +1,5 @@
 ---
-layout: event
 title: "Zombie Walk 7"
-categories: events
 published: false
 excerpt: "Ride with the undead as part of Zombie Walk 7!"
 image:
