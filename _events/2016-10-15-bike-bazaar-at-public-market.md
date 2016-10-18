@@ -1,6 +1,6 @@
 ---
 title: "Bike Bazaar at the Phoenix Public Market"
-published: true
+published: false
 excerpt: "a special day of bicycle wares and bike goodness"
 skip-title: true
 image:
