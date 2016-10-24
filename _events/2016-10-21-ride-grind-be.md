@@ -1,6 +1,6 @@
 ---
 title: "Rise and Grind - be Coffee + Food + Stuff"
-published: true
+published: false
 excerpt: "Arrive when you can, leave when you have to"
 image:
   feature: rise-and-grind-banner.jpg
