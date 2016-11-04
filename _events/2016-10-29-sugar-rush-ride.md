@@ -1,6 +1,6 @@
 ---
 title: "Sugar Rush"
-published: true
+published: false
 excerpt: "A ride featuring candy, cupcakes, cookies, and ice cream! "
 image:
   feature: sugar-rush-banner.jpg
