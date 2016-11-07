@@ -11,7 +11,7 @@ facebook-event: 1860508667502366
 
 ## Bridges and Parks and Bike Lanes
 
-Meeting at [Bicycle Nomad Café](http://www.thevelo.com/cafe.html) at **8 a.m.** on the morning of **Saturday, November 14th**.
+Meeting at [Bicycle Nomad Café](http://www.thevelo.com/cafe.html) at **8 a.m.** on the morning of **Saturday, November 12th**.
 
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13313.067594679045!2d-112.0507928194214!3d33.46840135198628!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xef1025b0ed553692!2sBicycle+Nomad+Caf%C3%A9!5e0!3m2!1sen!2sus!4v1478219805067"
