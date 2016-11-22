@@ -1,6 +1,6 @@
 ---
 title: "Brewery Bicycle Maintenance & Repair - Tubes and Tires"
-published: true
+published: false
 excerpt: "A series of Basic Bicycle Repair & Maintenance Workshops, in a brewery"
 image:
   teaser: rusty-spoke-square.jpg
