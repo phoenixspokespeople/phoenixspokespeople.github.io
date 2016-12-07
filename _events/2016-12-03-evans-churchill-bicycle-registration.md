@@ -1,6 +1,6 @@
 ---
 title: "Evans Churchill Bicycle Registration Campaign"
-published: true
+published: false
 excerpt: "FREE bicycle registration for you, your family, and friends!"
 image:
   teaser: evans-churchill-square.jpg

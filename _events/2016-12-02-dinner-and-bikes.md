@@ -1,6 +1,6 @@
 ---
 title: "Dinner and Bikes"
-published: true
+published: false
 excerpt: "Come get inspired by bicycle transportation"
 image:
   teaser: dinnerandbikes-square.jpg
