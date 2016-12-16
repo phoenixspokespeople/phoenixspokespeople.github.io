@@ -1,6 +1,6 @@
 ---
 title: "5th Avenue Bike Lane Removal"
-published: true
+published: false
 excerpt: "Let the city know your opinion on the removal of the bike lane on 5th Avenue south of Roosevelt. "
 image:
   feature: public-input-bike-lanes.jpg
