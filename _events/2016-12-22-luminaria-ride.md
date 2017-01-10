@@ -1,6 +1,6 @@
 ---
 title: "Luminaria Bicycle Ride 2016"
-published: true
+published: false
 excerpt: "Our annual Luminaria Ride though the Willo neighborhood"
 skip-title: false
 image:
