@@ -4,7 +4,7 @@ published: true
 excerpt: "A casual paced, no-drop ride of about 16 miles through neighborhoods and on bicycle infrastructure on the east side of town"
 image:
   teaser: bicycle-nomad-logo-square.jpg
-  feature: second-saturday-banner.jpg
+  feature: second-saturday-banner.png
 facebook-event: 601685146623009
 
 ---
