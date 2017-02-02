@@ -10,10 +10,10 @@ skip-title: true
 **Wednesday, Feb. 22, 2017**, from **6 p.m. to 8 p.m.** at [AASK, 2320 N. 20th St](https://goo.gl/maps/rRA9CUMqFxn).
 
 As part an effort to make the city’s roadways safer for drivers, cyclists and pedestrians while improve connections with transit,
-the [City of Phoenix Street Transportation Department]() is proposing a series of transportation improvements for Oak Street.
+the City of Phoenix Street Transportation Department is proposing a series of transportation improvements for **Oak Street**.
 
 While maintaining current vehicular lanes, the proposed improvements include sidewalks, enhanced lighting, improved signage,
-as well as bicycle lanes and two-way cycle tracks along Oak Street from Third Street to 20th Street and along 20th Street from Oak Street to the Grand Canal.
+as well as bicycle lanes and two-way cycle tracks along **Oak Street from Third Street to 20th Street** and along **20th Street from Oak Street to the Grand Canal**.
 
 ![Oak Street Project map](https://www.phoenix.gov/streetssite/MediaAssets/Oak%20Street%20Project%20Area%20Map.jpg)
 
