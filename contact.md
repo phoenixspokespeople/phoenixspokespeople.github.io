@@ -13,11 +13,11 @@ we have plenty of ways you can get involved:
 
 ## Join our mailing list
 
-We'll send you [a few emails per month](http://psp.bike/newsletter), keeping you up to date with:
+We'll send you [a monthly newsletter](http://psp.bike/newsletter), keeping you up to date with:
 
 * Bike related events and group rides
-* Local bike friendly businesses (and perhaps some special deals)
 * City plans, and what you can do to help support biking
+* Local bike friendly businesses (and perhaps some special deals)
 
 {% include mailchimp-signup.html %}
 
