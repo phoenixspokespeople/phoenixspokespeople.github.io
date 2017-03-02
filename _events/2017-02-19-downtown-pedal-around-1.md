@@ -1,6 +1,6 @@
 ---
 title: "Downtown Pedal Around Edition #1"
-published: true
+published: false
 excerpt: "Navigate through the city and the rules of the road with us at a new social bicycle ride coming to #dtphx"
 image:
   teaser: downtown-pedal-around-square.jpg

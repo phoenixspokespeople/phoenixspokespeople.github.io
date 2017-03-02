@@ -1,6 +1,6 @@
 ---
 title: "Oak Street open house"
-published: true
+published: false
 excerpt: "Phoenix seeks public input to improve Oak Street"
 image:
   feature: public-input-bike-lanes.jpg
