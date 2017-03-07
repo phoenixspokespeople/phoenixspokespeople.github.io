@@ -1,6 +1,6 @@
 ---
 title: "Febuary Public Board Meeting"
-published: true
+published: false
 excerpt: "Join us for our first Public Board Meeting"
 facebook-event: 681926895320812
 image:
