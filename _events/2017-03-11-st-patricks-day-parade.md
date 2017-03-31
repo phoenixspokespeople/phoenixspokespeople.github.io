@@ -1,6 +1,6 @@
 ---
 title: "St. Patrick's Day Ride"
-published: true
+published: false
 excerpt: "Bicycle Nomad Café Second Saturday Ride - St. Patrick's Day Edition"
 skip-title: true
 image:
