@@ -1,6 +1,6 @@
 ---
 title: "Second Saturday Bike Ride: Pedal Public Art"
-published: true
+published: false
 excerpt: "A casual paced, no-drop ride of about 8 miles around public art."
 skip-title: true
 image:
