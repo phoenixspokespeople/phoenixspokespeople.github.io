@@ -22,7 +22,7 @@ If you bought your tickets in advance and have your ID, you can check-in before 
 
 We will leave promptly (tee-hee) at **6:15** for the 4.25 mile ride to the brewery.
 
-<iframe id="mapmyfitness_route" src="//snippets.mapmycdn.com/routes/view/embedded/1514075005?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2017-04-05T16:50:52-05:00" height="400px" width="100%" frameborder="0"></iframe><div style="text-align: right; padding-right: 20px;">
+<iframe id="mapmyfitness_route" src="//snippets.mapmycdn.com/routes/view/embedded/1514075005?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2017-04-05T16:50:52-05:00" height="400px" width="100%" frameborder="0"></iframe>
 
 We will organize a ride back downtown at the close of Bike Prom 2017. Details for that at the event.
 
