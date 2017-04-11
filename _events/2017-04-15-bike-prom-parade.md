@@ -5,7 +5,7 @@ excerpt: "It's not Bike Prom with out the Bike Prom Parade to The Phoenix Ale Br
 skip-title: false
 image:
   teaser: prom-jacket.png
-  feature: https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/17759668_1460324357342187_154501203079358728_n.jpg
+  feature: bike-prom-parade.jpg
 skip-title: false
 facebook-event: 1312953062118483
 plasso-event: 1f1FTo6CZS
