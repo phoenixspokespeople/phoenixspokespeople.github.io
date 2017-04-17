@@ -1,6 +1,6 @@
 ---
 title: "Bike Ride and Check-In to Bike Prom 2017"
-published: true
+published: false
 excerpt: "It's not Bike Prom with out the Bike Prom Parade to The Phoenix Ale Brewery"
 skip-title: false
 image:
