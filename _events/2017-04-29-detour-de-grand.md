@@ -1,6 +1,6 @@
 ---
 title: "Detour de Grand"
-published: true
+published: false
 excerpt: "Local bands, local brands"
 skip-title: true
 image:
