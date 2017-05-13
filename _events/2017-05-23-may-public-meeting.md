@@ -8,7 +8,7 @@ image:
 skip-title: true
 ---
 
-**Tuesday, May 27. 6:00 PM -- 7:00 PM**
+**Tuesday, May 23. 6:00 PM -- 7:00 PM**
 
 Kindly hosted by [Downtown Phoenix Inc](http://dtphx.org/).
 
