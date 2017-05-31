@@ -1,6 +1,6 @@
 ---
 title: "May Public Board Meeting"
-published: true
+published: false
 excerpt: "Join us for our second Public Board Meeting"
 facebook-event: 1958874271009553
 image:

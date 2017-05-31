@@ -1,6 +1,6 @@
 ---
 title: "Downtown Pedal Around Edition #4"
-published: true
+published: false
 excerpt: "Navigate through the city and the rules of the road with us at a new social bicycle ride coming to downtown Phoenix"
 image:
   teaser: downtown-pedal-around-square.jpg
