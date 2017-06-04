@@ -5,6 +5,7 @@ excerpt: "A casual paced, no-drop ride of about 12 miles"
 image:
   teaser: bicycle-nomad-logo-square.jpg
   feature: second-saturday-banner.png
+facebook-event: 361391537596859
 ---
 
 **Saturday, June 10th**
