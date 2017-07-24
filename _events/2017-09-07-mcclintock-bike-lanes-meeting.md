@@ -8,9 +8,9 @@ image:
 facebook-event: 108734363071796
 ---
 
-**Thursday, June 29th**
+**September 7th**
 
-**4:00 pm -- 6 pm**
+**4 pm -- 6 pm**
 
 Come and Tell the Mayor and Council that everyone's safety is more important than saving 15 seconds.
 
@@ -24,4 +24,4 @@ One of those options is to remove the bike lanes and return McClintock to its or
 
 The current configuration, as shown in the Tempe Transportation Master Plan and Tempe's General Plan 2040, is safer and needs to be maintained. Removing bike lanes, or adding vehicular lanes, will make it less safe. The first priority of the Tempe City Council is ensuring a safe and secure community through a commitment to public safety and justice. Lets hold the council to its own priorities and not cut off safe access for those who need to ride to work or school.
 
-This is a difficult time to make a city meeting! The temperature will be high (two weeks out it is forecast at 108) and it is at a time when many are working. Please reach out if you need a hand getting to the meeting, or for anything related.
+This is a difficult time to make a city meeting! It is at a time when many are working. Please reach out if you need a hand getting to the meeting, or for anything related.

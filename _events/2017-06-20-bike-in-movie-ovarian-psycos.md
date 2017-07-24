@@ -1,6 +1,6 @@
 ---
 title: "Bike-in Movie: Ovarian Psycos"
-published: true
+published: false
 excerpt: "Join Phoenix Spokes People and the WTF (Women/Trans/Femme) Ride for a screening of the documentary film, Ovarian Psycos."
 image:
   teaser: wtf-logo.jpg
