@@ -1,6 +1,6 @@
 ---
 title: "Blazing Saddles Saturday Night ride"
-published: true
+published: false
 excerpt: "Join us for the third annual Blazing Saddles night ride."
 image:
   feature: blazing-saddles.jpg
