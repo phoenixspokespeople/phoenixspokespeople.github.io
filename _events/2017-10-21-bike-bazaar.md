@@ -16,3 +16,5 @@ Join us at the at [Downtown Phoenix Public Market](http://phxpublicmarket.com/op
 Find your bike bliss at the third annual Bike Bazaar at the Phoenix Public Market. This year, in addition to bike-related clothes, art, jewelry and equipment we are adding a bike swap! Bike Bazaar vendors will be located along Pierce Street.
 
 Free Admission and a possible raffle! Stay tuned!
+
+Interested in being **a craft and artisan, or bike swap vendor**? [Apply here](https://goo.gl/forms/5oUlxepQKrXygSyo2).
