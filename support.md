@@ -3,6 +3,7 @@ layout: home
 permalink: /support/
 title: "Support Phoenix Spokes People"
 share: false
+excerpt: "How to help support the Phoenix Spokes People mission"
 ---
 
 ## Membership
@@ -27,4 +28,4 @@ Each comes with:
 
 ## Amazon Smile
 
-Support Phoenix Spokes People every time you shop on Amazom via their [Amazon Smile Program](smile.amazon.com), just search for _Phoenix Spokes People_.
+Support Phoenix Spokes People every time you shop on Amazon via their [Amazon Smile Program](smile.amazon.com), just search for _Phoenix Spokes People_.
