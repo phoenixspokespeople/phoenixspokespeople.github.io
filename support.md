@@ -28,4 +28,4 @@ Each comes with:
 
 ## Amazon Smile
 
-Support Phoenix Spokes People every time you shop on Amazon via their [Amazon Smile Program](smile.amazon.com), just search for _Phoenix Spokes People_.
+Support Phoenix Spokes People every time you shop on Amazon via their [Amazon Smile Program](http://smile.amazon.com/ch/47-4212165). [Join here](http://smile.amazon.com/ch/47-4212165).
