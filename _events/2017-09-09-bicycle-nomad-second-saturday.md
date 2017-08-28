@@ -9,7 +9,7 @@ image:
 
 **Saturday, September 9th**
 
-**7:00 am** at Bicycle Nomad Café inside [The Velo Bike Shop](http://www.thevelo.com/).
+**8:00 am** at Bicycle Nomad Café inside [The Velo Bike Shop](http://www.thevelo.com/).
 
 Phoenix Spokes People and [Bicycle Nomad Café](http://www.thevelo.com/cafe.html) Second Saturday Bike Ride.
 
