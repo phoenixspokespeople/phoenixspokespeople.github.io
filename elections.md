@@ -58,4 +58,5 @@ To nominate yourself, complete the nomination form below by Tuesday, September 5
 
 Not a Phoenix Spokes People member yet? [Join here!](/support).
 
-**[NOMINATION FORM](http://phoenixspokespeople.us11.list-manage2.com/track/click?u=f774c50a1dc38e9694d3908ea&id=170358307a&e=605fa99d8d)**
+**[NOMINATION
+FORM](https://docs.google.com/forms/d/1Vrs06QAf61VTS-T-02GXCXqRpAk-4-Mo020M8EKVgqI/viewform)**
