@@ -3,32 +3,60 @@ layout: home
 permalink: /elections/
 title: "Board of Directors elections"
 share: false
+title: false
 ---
 
-Greetings Phoenix Cyclists!
+# Call For Nominations
 
-Are you interested in making Phoenix a friendlier, safer and easier place to ride a bike? Phoenix Spokes People (PSP) will be holding elections for our Board of Directors and we invite you to join us!
+Do you want to help make Phoenix a friendlier place to ride bikes? Advocate for better infrastructure? Make the world a better place? Consider running for a position on Phoenix Spokes People's (PSP) Board of Directors . We are seeking self-nominations for the following positions.
 
-Board members meet regularly to discuss bicycle advocacy efforts in Phoenix and also attend public meetings including budget hearings, city council meetings, infrastructure open houses and meetings with the City of Phoenix Streets Transportation Department. The Board of Directors regularly drafts letters to the city with concerns, suggestions (and sometimes even praise) regarding bicycle infrastructure or other related issues.
+## OFFICERS
 
-Board members also participate in planning events and reaching out to businesses and other partners for collaboration. They are frequently interviewed by various media outlets, and may be quoted or appear in print, online, or televised news stories and features.
+*President* – Calls and presides at all Membership and Board of Directors meetings, oversees budget expenditures, and establishes ad-hoc committees as needed. Represents PSP on official business. Nominee must be a current Officer or Member-at-Large.
 
-Our Board of Directors includes four executive positions:
+*Vice President* – Coordinates with the President and carries out the President’s duties when the President is unavailable. Conducts other duties as assigned by the President or the Board of Directors. Nominee must be a current Officer or Member-at-Large.
 
-* **President:** The President of Phoenix Spokes People presides at all meetings and has general charge and control of the affairs of Phoenix Spokes People, subject to such regulations and restrictions as the Board of Directors may impose.
+*Secretary* – Keeps minutes of meetings and proceedings of the Board of Directors. Maintains corporate records except those that are the responsibility of the Treasurer. Conducts other duties as assigned by the President or the Board of Directors. Nominee must be a current Officer or Member-at-Large.
 
-* **Vice President**: The Vice President serves in the President's absence or in the event of the President's death, inability, or refusal to act. The Vice President has such powers and performs such duties as may be assigned to him or her by the President or by the Board of Directors.
+*Treasurer* –
 
-* **Secretary**: The Secretary shall keep minutes, ensure all notices are duly given, have charge of all the corporate books and records, excluding such financial books as are the responsibility of the Treasurer, and other duties as may be assigned to him or her by the President or by the Board of Directors.
+1. Has custody of and is responsible for all funds, securities, financial books, records, and accounts of Phoenix Spokes People;
 
-* **Treasurer**: The Treasurer shall have custody for all funds, financial transactions, file yearly income taxes, and other duties as may be assigned to him or her by the President or by the Board of Directors.
+1. Receives and gives receipts for monies due and payable to Phoenix Spokes People;
 
-* Up to 10 **At-large Board Members** may also be filled. Some of these positions may have specific duties as assigned to him or her by the President or by the Board of Directors.
+1. Files yearly tax returns with the Arizona Corporation Commission and the Internal Revenue Service (IRS);
 
-You must be a [Phoenix Spokes People member](//www.psp.bike/membership) to be eligible for a board position.
+1. Perform all duties incident to the office of Treasurer and such other duties as may be assigned by the President or by the Board of Directors. Nominee must be a current Officer or Member-at-Large.
 
-In the coming weeks we'll announce a call for candidates with a deadline via email to all PSP Members.
 
-You may nominate yourself or someone else for a board position. Approximately two weeks after the call for candidates we'll hold an in-person election, with the location to be determined.
+*PHX Bike Lab Liaison* – Sits on the boards of both PSP and PHX BIKE LAB, attending meetings of both groups and sharing information on activities.
 
-Thank you for all of your support in the early years of Phoenix Spokes People. We look forward to a long future of a Phoenix with people dressed up or down — going to work or heading out for a night on the town — and getting there safely by riding in a proper bike lane.
+# MEMBER-AT-LARGE
+
+*Member-at-Large* –
+
+1. The Board may elect up to ten members-at-large.
+
+1. Individuals customarily serve as at-large board members before accepting an officer position.
+
+1. Members-at-large may hold such positions as “Membership Coordinator,” “Bike Fun Coordinator,” or “Grants and Development Coordinator” as agreed upon by the Board.
+
+*Examples of Board duties* – Board members help with various projects, such as:
+
+1. Membership fulfillment – emails welcome letter to new members, mails stickers and other items as appropriate
+
+1. Bike Fun committee – plans and executes events, posts to social media
+
+1. Bike Rack committee – encourages businesses to offer bike parking and helps provide racks when available
+
+1. Bicycle Benefits – invites businesses to join the program and encourage cycling throughout the community, provides collaterals to businesses, updates website
+
+1. Website management – keeps the PSP website updated, manages membership payment system, generates member lists
+
+The PSP Board of Directors meet roughly six times a year, usually just before or after a membership meeting. The time commitment varies depending on the position. Current Board members would be happy to discuss their experiences. For more information, reach out to us by emailing [hello@phoenixspokespeople.org](mailto:hello@phoenixspokespeople.org).
+
+To nominate yourself, complete the nomination form below by Tuesday, September 5 at 5:00 p.m. MST. Officers and Board members must be PSP members in good standing. To serve as an officer you must have served a prior term as a board member at-large.
+
+Not a Phoenix Spokes People member yet? [Join here!](/support).
+
+[NOMINATION FORM](http://phoenixspokespeople.us11.list-manage2.com/track/click?u=f774c50a1dc38e9694d3908ea&id=170358307a&e=605fa99d8d)

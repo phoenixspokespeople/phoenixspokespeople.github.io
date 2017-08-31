@@ -18,4 +18,4 @@ Join us for updates on important bike-related projects and issues, and meet the 
 
 Light refreshments will be served and filtered water available for your refillable vessel.
 
-Can't make it in person? [Join us by webinar](https://attendee.gotowebinar.com/register/4196531702873380354), speakers or toll call required.
+Can't make it in person? [Join us on YouTube](https://www.youtube.com/watch?v=W1TMnKYI8H4).
