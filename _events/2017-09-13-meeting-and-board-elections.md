@@ -1,6 +1,6 @@
 ---
 title: "Meeting and Board Elections"
-published: true
+published: false
 excerpt: "Join us for updates on important bike-related projects"
 facebook-event: 1316213611839239
 image:
