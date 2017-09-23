@@ -3,12 +3,13 @@ layout: home
 permalink: /support/
 title: "Support Phoenix Spokes People"
 share: false
-excerpt: "How to help support the Phoenix Spokes People mission"
+
 ---
+
 
 ## Membership
 
-Become a supporting member of Phoenix Spokes People by [making a yearly contribution](https://plasso.com/s/9Tlekqlz7y).
+How to help support the Phoenix Spokes People mission by becoming a supporting member via [making a yearly contribution](https://plasso.com/s/9Tlekqlz7y).
 
 We have several plans available:
 
@@ -25,6 +26,28 @@ Each comes with:
 * An option to purchase a [Grid Bike Share](http://gridbikeshare.com/) corporate membership ($180 value) for $80.
 
 [Sign up here](https://plasso.com/s/9Tlekqlz7y).
+
+## Sponsors and gratitude
+
+We'd like to thank the following businesses for allowing to to use their products:
+
+<div class="tiles wrap">
+    <div class="tile">
+      <a href="https://www.google.com/nonprofits/">
+      <h1>Google for non-profits</h1>
+      </a>
+    </div>
+    <div class="tile">
+      <a href="https://get.slack.help/hc/en-us/articles/204368833-Slack-for-Nonprofits">
+        <img class="thumbnail" src="/images/slack-logo.png"/>
+      </a>
+    </div>
+    <div class="tile">
+      <a href="https://zapier.com/">
+        <img class="thumbnail" src="/images/zapier-logo.png"/>
+      </a>
+    </div>
+</div>
 
 ## Amazon Smile
 
