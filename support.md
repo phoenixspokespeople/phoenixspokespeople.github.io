@@ -29,26 +29,31 @@ Each comes with:
 
 ## Sponsors and gratitude
 
-We'd like to thank the following businesses for allowing to to use their products:
+We'd like to thank the following businesses:
 
 <div class="tiles wrap">
-    <div class="tile">
-      <a href="https://www.google.com/nonprofits/">
+  <div class="tile">
+    <a href="https://www.google.com/nonprofits/">
       <h1>Google for non-profits</h1>
-      </a>
-    </div>
-    <div class="tile">
-      <a href="https://get.slack.help/hc/en-us/articles/204368833-Slack-for-Nonprofits">
-        <img class="thumbnail" src="/images/slack-logo.png"/>
-      </a>
-    </div>
-    <div class="tile">
-      <a href="https://zapier.com/">
-        <img class="thumbnail" src="/images/zapier-logo.png"/>
-      </a>
-    </div>
+    </a>
+  </div>
+  <div class="tile">
+    <a href="https://get.slack.help/hc/en-us/articles/204368833-Slack-for-Nonprofits">
+      <img class="thumbnail" src="/images/slack-logo.png"/>
+    </a>
+  </div>
+  <div class="tile">
+    <a href="https://zapier.com/">
+      <img class="thumbnail" src="/images/zapier-logo.png"/>
+    </a>
+  </div>
 </div>
 
-## Amazon Smile
+<div class="tiles wrap">
+  <div class="tile">
+    <a href="http://smile.amazon.com/ch/47-4212165">
+      <img class="thumbnail" src="/images/amazon-smile.png"/>
+    </a>
+  </div>
+</div>
 
-Support Phoenix Spokes People every time you shop on Amazon via their [Amazon Smile Program](http://smile.amazon.com/ch/47-4212165). [Join here](http://smile.amazon.com/ch/47-4212165).
