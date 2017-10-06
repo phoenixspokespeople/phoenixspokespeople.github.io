@@ -8,6 +8,8 @@ skip-title: false
 facebook-event: 132891987341010
 ---
 
+## Saturday, Oct 7th
+
 This year New Belgium Brewery is suporting local nonprofits with the first ever Cyclovia event in Tempe!
 
 From **Noon until 3pm** (when the concert starts at Tempe Town Lake) Mill Ave will be closed to motorized traffic from University to 3rd street! People walking or riding bikes will be able to ride all over! There will be music, activities, fun, and specials at your favorite local businesses!
