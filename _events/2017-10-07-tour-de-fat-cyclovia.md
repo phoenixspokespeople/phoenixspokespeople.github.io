@@ -1,6 +1,6 @@
 ---
 title: "Cyclovia! Tour de Fat - Tempe 2017"
-published: true
+published: false
 excerpt: "This year New Belgium Brewery is suporting local nonprofits with the first ever Cyclovia event in Tempe!"
 image:
   teaser: tdf-logo.png

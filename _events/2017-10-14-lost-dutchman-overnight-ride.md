@@ -1,6 +1,6 @@
 ---
 title: "Lost Dutchman Overnight Ride"
-published: true
+published: false
 excerpt: "Join PSP and TBAG for a ride from Bicycle Nomad Cafe to Lost Dutchman State Park."
 skip-title: false
 image:
