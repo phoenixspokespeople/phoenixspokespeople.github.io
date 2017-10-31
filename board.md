@@ -5,8 +5,6 @@ title: "Board of Directors"
 share: false
 ---
 
-# Phoenix Spokes People Board
-
 To reach out to any of the board, please send an email to [info@phoenixspokespeople.org](mailto:info@phoenixspokespeople.org), and we'll make sure it finds them!
 
 ## Officers
@@ -17,7 +15,7 @@ To reach out to any of the board, please send an email to [info@phoenixspokespeo
 
 **Treasurer**: John Walker
 
-## Members-at Large:
+## Members-at Large
 
 * Annie Eldon
 * Dave Tapley
