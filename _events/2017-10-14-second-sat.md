@@ -1,6 +1,6 @@
 ---
 title: "Second Saturday Ride"
-published: true
+published: false
 excerpt: "Join us for our monthly, themed, no-drop ride"
 image:
   teaser: bicycle-nomad-logo-square.jpg
