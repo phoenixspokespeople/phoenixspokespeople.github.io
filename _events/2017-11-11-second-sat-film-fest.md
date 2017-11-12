@@ -1,6 +1,6 @@
 ---
 title: "Second Saturday Ride"
-published: true
+published: false
 excerpt: "15 mile, casual, no drop ride ahead of Bicycle Nomad Film Fest"
 image:
   teaser: nomad-film-fest.png
