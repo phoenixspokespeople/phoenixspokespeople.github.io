@@ -1,6 +1,6 @@
 ---
 title: "November Meeting"
-published: true
+published: false
 excerpt: "Help Us Make Bike Magic!"
 facebook-event: 1742401189389215
 image:

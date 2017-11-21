@@ -1,6 +1,6 @@
 ---
 title: "Downtown Pedal Around - Pie Social Edition"
-published: true
+published: false
 excerpt: "Pedal your way to delicious pies in the park."
 image:
   teaser: downtown-pedal-around-square.jpg
