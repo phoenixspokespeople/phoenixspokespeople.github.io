@@ -11,14 +11,14 @@ To reach out to any of the board, please send an email to [info@phoenixspokespeo
 
 **President**: Bill McComas
 
-**Vice President**: Suzanne Day
+**Vice President**: Dave Tapley
 
 **Treasurer**: John Walker
 
 ## Members-at Large
 
 * Annie Eldon
-* Dave Tapley
+* Suzanne Day
 * Joe Perez
 * Lara Sands
 * Lisa Parks
