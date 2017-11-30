@@ -3,6 +3,12 @@ layout: home
 permalink: /
 ---
 
+<div style="clear: both;">
+  <p style="text-align: center;"><a href="events/2017-12-04-5-year-plan-open-house/">Please attend the <b>Public Meeting For The 5 Year Bicycle Program</b></a>.</p>
+  <p style="text-align: center;">Taking place <b>Monday December 4th</b> from <b>4:30 pm - 7 pm</b> in downtown Phoenix.</p>
+  <p style="text-align: center;">More info <a href="events/2017-12-04-5-year-plan-open-house/">here</a>.</p>
+</div>
+
 <div class="tiles">
 
 <div class="tile">

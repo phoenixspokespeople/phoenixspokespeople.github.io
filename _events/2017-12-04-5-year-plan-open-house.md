@@ -16,6 +16,8 @@ src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3328.849657538753!2d-
 Share your input on the City of Phoenix Bicycle Master Plan projects that will be completed over the next 5 years.
 It's **important for people who ride bikes to weigh in** on these projects!
 
+[**READ OUR PRESS RELEASE HERE**](https://drive.google.com/open?id=1nGYaKqINtlsL5Htij2FT3PRRqcnvaGla).
+
 * Important decisions are being made NOW regarding bike lanes on Third and Fifth Avenues.
 * Can't attend in person but want to share your thoughts? Email [bike@phoenix.gov](mailto: bike@phoenix.gov).
 * Find out more about the [Bicycle Master Plan](https://www.phoenix.gov/streetssite/Pages/Bicycle-Master-Plan.aspx).
