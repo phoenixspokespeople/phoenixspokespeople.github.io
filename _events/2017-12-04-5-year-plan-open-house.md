@@ -1,6 +1,6 @@
 ---
 title: "Public Meeting For The 5 Year Bicycle Program"
-published: true
+published: false
 excerpt: "Share your input on the City of Phoenix Bicycle Master Plan projects that will be completed over the next 5 years."
 image:
   feature: public-input-session-banner.jpg
