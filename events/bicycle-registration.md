@@ -26,3 +26,7 @@ Under the Evans Churchill tent, just look for friendly neighborhood and student 
  **Third Saturday of every month** (except for summer) at the Public Market.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3328.750402721013!2d-112.07529568480048!3d33.45580878077236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b123d3cba7a41%3A0xeb1f52c6ccbc197d!2sPhoenix+Public+Market+Caf%C3%A9!5e0!3m2!1sen!2sus!4v1512023791302" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+Check our [Facebook page](https://www.facebook.com/pg/PhoenixSpokesPeople/events) for a Facebook event:
+
+<div class="fb-page" data-href="https://www.facebook.com/PhoenixSpokesPeople/" data-tabs="events" data-width="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/PhoenixSpokesPeople/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/PhoenixSpokesPeople/">Phoenix Spokes People</a></blockquote></div>
