@@ -10,7 +10,7 @@ facebook-event: 512998065736717
 
 ---
 
-We will be hosting our annual Luminaria Ride though the Willo neighborhood on **Thursday, December 22**.
+We will be hosting our annual Luminaria Ride though the Willo neighborhood on **Saturday, December 23**.
 
 We'll meet at [Amp Island in Encanto park](https://goo.gl/maps/XDQpCHUUyrL2) at 6 pm. for a **7 p.m. rollout**
 
