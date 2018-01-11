@@ -1,6 +1,6 @@
 ---
 title: "Downtempo Stayin' Alive Christmas Extravaganza!"
-published: true
+published: false
 excerpt: "Join Phoenix Downtempo Ride giving some bike love back to the community!"
 skip-title: false
 image:
