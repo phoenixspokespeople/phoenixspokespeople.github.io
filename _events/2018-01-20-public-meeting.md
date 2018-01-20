@@ -20,6 +20,8 @@ Many thanks to [Downtown Phoenix Inc](http://dtphx.org/) for hosting us at their
 
 Bring a snack or beverage to share. If you're riding to the meeting consider posting your route so others can join you.
 
+[Agenda here](https://docs.google.com/document/d/1QLAaIyAuOduBT69yj9SY7zfaCVnwoJ369YcrdWY_ZeA/edit?usp=sharing).
+
 Everyone is welcome. We hope to see you there!
 
 If you are unable to join us then you can [watch live on YouTube](https://youtu.be/Vr5pOfljZLA):
