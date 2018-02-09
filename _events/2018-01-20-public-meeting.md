@@ -1,6 +1,6 @@
 ---
 title: "January Public Meeting"
-published: true
+published: false
 excerpt: "Join us for our January Meeting"
 facebook-event: 450348322029618
 image:
