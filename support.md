@@ -7,6 +7,20 @@ share: false
 ---
 
 
+## Volunteer
+
+We currently have no paid positions, so everything we do is solely
+volunteered time. Accordingly more than anything we need your help!
+
+We have opportunities such as:
+
+* Planning [events](/events) with our **Bike Fun Committee**.
+* Helping prepare our [**monthly newsletter**](https://us11.campaign-archive.com/home/?u=f774c50a1dc38e9694d3908ea&id=39ef4d870f).
+* Contacting local businesses about our bicycle benefits and bicycle rack programs.
+* Reaching out and advocating for our mission.
+
+If you are interested please [send us an email](mailto:hello@phoenixspokespeople.org).
+
 ## Membership
 
 How to help support the Phoenix Spokes People mission by becoming a supporting member via [making a yearly contribution](https://plasso.com/s/9Tlekqlz7y).
