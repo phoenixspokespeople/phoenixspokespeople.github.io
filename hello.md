@@ -5,7 +5,7 @@ title: "Hello there!"
 share: false
 ---
 
-<img src="{{ site.url }}/images/hello.svg" alt="Hello"/>
+<img height="30" width="30" style="padding-right:20px" src="{{ site.url }}/images/logo-square.svg" alt="Hello"/><img src="{{ site.url }}/images/hello.svg" alt="Hello"/>
 
 Thanks for riding your bike.
 
