@@ -21,6 +21,8 @@ Bring a snack or beverage to share. If you're riding to the meeting consider pos
 
 Everyone is welcome. We hope to see you there!
 
+If you are unable to join us then you can [watch live on YouTube](https://youtu.be/xZsTcW_7hyg).
+
 Can't wait that long? [Watch our January meeting here](https://youtu.be/Vr5pOfljZLA):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vr5pOfljZLA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
