@@ -1,6 +1,6 @@
 ---
 title: "Downtown Pedal Around"
-published: true
+published: false
 excerpt: "Sunday in the Park Edition"
 image:
   teaser: downtown-pedal-around-square.jpg
