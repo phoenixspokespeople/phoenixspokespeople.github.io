@@ -3,7 +3,7 @@ title: "Bike-in Movie: The Triplets of Belleville"
 published: true
 excerpt: "Join Phoenix Spokes People and Phoenix Downtempo Ride for a screening of The Triplets of Belleville"
 image:
-  teaser: filmbar-logo.jpg
+  teaser: filmBar-logo.jpg
   feature: triplets-of-belleville.png
 facebook-event: 1579039832165545
 ---
