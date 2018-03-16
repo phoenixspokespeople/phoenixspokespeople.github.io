@@ -1,6 +1,6 @@
 ---
 title: "Bicycle Nomad Café Second Saturday Bike Ride"
-published: true
+published: false
 excerpt: "A casual paced, no-drop ride of 15-18 miles"
 image:
   teaser: bicycle-nomad-logo-square.jpg
