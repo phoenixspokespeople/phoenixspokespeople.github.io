@@ -10,9 +10,9 @@ image:
 
 ---
 
-**Tuesday, April 10, 6 PM - 8 PM**, bought to you by [Just Okay Art](www.justokayart.com).
+**Tuesday, April 10, 6 PM - 8 PM**, bought to you by [Just Okay Art](https://www.justokayart.com).
 
-**[Rusty Spoke Community Bicycle Collective](https://www.rustyspoke.org/)**, 740 W Grant St, Phoenix
+**[Rusty Spoke Community Bicycle Collective](https://www.rustyspoke.org/)**, 740 W Grant St, Phoenix.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.3112738695577!2d-112.08647868406085!3d33.44119598077648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b1187efda70fd%3A0xd4027ae4f6e0b7dd!2sRusty+Spoke!5e0!3m2!1sen!2sus!4v1521220674903" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
