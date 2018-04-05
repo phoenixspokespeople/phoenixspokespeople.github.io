@@ -1,6 +1,6 @@
 ---
 title: "March Public Meeting"
-published: true
+published: false
 excerpt: "Join us for our March Meeting"
 facebook-event: 1819665254734030
 image:
