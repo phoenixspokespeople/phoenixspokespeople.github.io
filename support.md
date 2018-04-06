@@ -69,5 +69,16 @@ We'd like to thank the following businesses:
       <img class="thumbnail" src="/images/amazon-smile.png"/>
     </a>
   </div>
+  <div class="tile">
+    <a href="https://www.greenerprinter.com/">
+      <img class="thumbnail" src="/images/greenerprinter-logo.png"/>
+    </a>
+    <p>
+      Thanks to <a href="https://www.greenerprinter.com/">greenerprinter.com</a>
+      for providing our bike valet claim checks on the highest
+      quality recycled and/or FSC-certified paper with non-toxic soy-
+      and vegetable-based inks.
+    </p>
+  </div>
 </div>
 
