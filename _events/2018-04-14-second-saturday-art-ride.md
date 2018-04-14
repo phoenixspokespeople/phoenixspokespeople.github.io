@@ -16,7 +16,24 @@ Phoenix Spokes People and [Bicycle Nomad Café](http://www.thevelo.com/cafe.html
 
 We will meet at Bicycle Nomad Café inside [The Velo Bike Shop](http://www.thevelo.com/) at 8:00 to hang out with their amazing coffee, treats from Nami, and other items available for purchase.
 
-Details are being worked out still, but we will be taking a tour of Public Art downtown and central Phoenix.
+We will be [taking a tour](http://www.mapmyride.com/routes/fullscreen/2011844548/) of Public Art downtown and central Phoenix, visiting these stops:
+
+1. Her Secret is Patience
+2. Taylor Street Mall
+3. Dance
+4. The Earth Dreaming
+5. Halo
+6. Arizona Bola Ties
+7. HoHoKam Camshafts
+8. GW Carver
+9. Street Signs Mural
+A. Harmon Park Sidewalk Etchings
+B. Harmon Park River of Shade/Mural
+C. Hope Gardens
+D. Lariat Cowboy
+E. Memory Box
+F. Medalions
+G. CoP Employee Memorial
 
 We will meet at the café at 8:00 for coffee, snacks, and of course good company.
 
