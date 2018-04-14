@@ -27,13 +27,13 @@ We will be [taking a tour](http://www.mapmyride.com/routes/fullscreen/2011844548
 7. HoHoKam Camshafts
 8. GW Carver
 9. Street Signs Mural
-A. Harmon Park Sidewalk Etchings
-B. Harmon Park River of Shade/Mural
-C. Hope Gardens
-D. Lariat Cowboy
-E. Memory Box
-F. Medalions
-G. CoP Employee Memorial
+1. Harmon Park Sidewalk Etchings
+1. Harmon Park River of Shade/Mural
+1. Hope Gardens
+1. Lariat Cowboy
+1. Memory Box
+1. Medalions
+1. CoP Employee Memorial
 
 We will meet at the café at 8:00 for coffee, snacks, and of course good company.
 
