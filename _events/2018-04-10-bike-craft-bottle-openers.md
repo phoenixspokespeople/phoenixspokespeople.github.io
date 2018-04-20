@@ -1,6 +1,6 @@
 ---
 title: "Take Your Top Off! Bike Bit Bottle Openers"
-published: true
+published: false
 excerpt: "A fun upcycling event, using old bicycle bits to craft into handy and unique bottle openers"
 skip-title: false
 facebook-event: 195681681029765

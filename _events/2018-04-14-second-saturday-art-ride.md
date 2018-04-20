@@ -1,6 +1,6 @@
 ---
 title: "PSP - Bicycle Nomad 2nd Saturday Ride - Public Art Edition"
-published: true
+published: false
 excerpt: "A casual paced, no-drop ride of 15-18 miles"
 image:
   teaser: second-sat-art.jpg
