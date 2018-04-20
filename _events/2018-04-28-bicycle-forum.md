@@ -5,6 +5,7 @@ excerpt: "a day of learning, idea sharing and networking with transportation lea
 image:
   teaser: bike-forum-square.jpg
 skip-title: false
+facebook-event: 167789303934259
 ---
 
 **Saturday, April 28th**, from **10 a.m. to 5 p.m.** at A. E. England Building, 424 N. Central Ave.
