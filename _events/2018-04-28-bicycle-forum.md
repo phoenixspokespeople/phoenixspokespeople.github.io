@@ -1,6 +1,6 @@
 ---
 title: "Phoenix Bicycle Forum"
-published: true
+published: false
 excerpt: "a day of learning, idea sharing and networking with transportation leaders, city representatives, bicycle advocates and local community members"
 image:
   teaser: bike-forum-square.jpg

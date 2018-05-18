@@ -1,6 +1,6 @@
 ---
 title: "Open house for Osborn Road"
-published: true
+published: false
 excerpt: "The proposed safety modifications for Osborn Road are aimed at creating a safer environment for all users of the roadway, adding greater connectivity to area activity centers and improving bicycle lane connectivity."
 skip-title: true
 image:
