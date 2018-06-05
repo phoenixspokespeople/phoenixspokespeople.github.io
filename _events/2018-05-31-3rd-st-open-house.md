@@ -1,6 +1,6 @@
 ---
 title: "3rd Street Improvement Project Open House"
-published: true
+published: false
 excerpt: "The city of Phoenix Street Transportation Department is
 hosting an open house meeting to share the latest on the design plans
 for the 3rd Street Improvement Project"
