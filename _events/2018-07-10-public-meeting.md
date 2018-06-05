@@ -22,8 +22,4 @@ Everyone is welcome. We hope to see you there!
 
 If you are unable to join us then you can [watch live on YouTube](https://www.youtube.com/watch?v=pGNYuBoPe9c).
 
-Can't wait that long? [Watch our March meeting
-here](https://www.youtube.com/watch?v=xZsTcW_7hyg):
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xZsTcW_7hyg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
+Can't wait that long? [Watch our March meeting here](https://www.youtube.com/watch?v=xZsTcW_7hyg).
