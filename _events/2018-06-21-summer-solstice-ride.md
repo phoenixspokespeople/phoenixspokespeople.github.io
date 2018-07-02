@@ -1,6 +1,6 @@
 ---
 title: "Summer Solstice Ride"
-published: true
+published: false
 excerpt: "Join us for a sunset ride and squirt gun shenanigans."
 image:
   feature: blazing-saddles.jpg

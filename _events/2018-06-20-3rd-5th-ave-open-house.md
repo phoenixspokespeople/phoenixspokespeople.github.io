@@ -1,6 +1,6 @@
 ---
 title: "3rd and 5th Avenues Open House"
-published: true
+published: false
 excerpt: "The city of Phoenix Street Transportation Department will provide details on final designs for safety and mobility improvements"
 image:
   feature: 3rd-5th-avenues-logo.jpeg
