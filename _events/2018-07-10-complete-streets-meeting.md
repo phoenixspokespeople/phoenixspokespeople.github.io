@@ -1,6 +1,6 @@
 ---
 title: "Complete Streets Design Guidelines Working Group Meeting"
-published: true
+published: false
 excerpt: "Give your feedback to the Complete Streets Design Guidelines Working Group"
 image:
   feature: public-input-session-banner.jpg

@@ -1,6 +1,6 @@
 ---
 title: "July Public Meeting"
-published: true
+published: false
 excerpt: "Join us for our July Meeting"
 facebook-event: 186458775407377
 image:
