@@ -12,6 +12,10 @@
   url: /events/
   excerpt: "Bicycle related events in Phoenix"
 
+- title: Valet
+  url: /valet/
+  excerpt: "Bicycle Valet"
+
 - title: Support
   url: /support/
   excerpt: "Support Phoenix Spokes people"
