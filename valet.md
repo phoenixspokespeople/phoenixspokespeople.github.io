@@ -26,7 +26,7 @@ It works just like 'car valet':
 - Each claim check has a unique number,
 - so when they are ready to leave the event they'll exchange it for their bike.
 
-![empty field with bike valet set up](/images/valet-lost-lake-day.md)
+![empty field with bike valet set up](/images/valet-lost-lake-day.jpg)
 
 ## Our asks
 
@@ -38,7 +38,7 @@ We offer this service **free of charge**, but we'll need your help with a few th
 1. If you can provide a table and chairs, and better yet a pop up tent, that'd be great.
 1. Of course, any perks you can offer (e.g. tickets) would be much appreciated by our volunteers!
 
-![parking lot with bike valet](/images/valet-filmbar-day.md)
+![parking lot with bike valet](/images/valet-filmbar-day.jpeg)
 
 ## Logistics
 
@@ -53,7 +53,7 @@ With regard to **where to put the valet** and **how much space is required**:
 - In the photo above you can see a 6 rack setup we did for Film Bar, that took up two parking spaces and allowed us to park approx. 50 bikes (at a squeeze).
 - In the photo below you can our biggest valet to date, which we set up at Lost Lake Festival, with ample space and fencing we had over 300 bikes valeted at any one time.
 
-![field full of parked bikes](/images/valet-lost-lake-night.md)
+![field full of parked bikes](/images/valet-lost-lake-night.jpg)
 
 ## FAQ
 
@@ -65,15 +65,15 @@ With regard to **where to put the valet** and **how much space is required**:
 
 1. _What happens if someone loses their claim check?_
 
-  Our volunteers always ask people to take a photo of their claim check when they drop off a bike, just in case.
+    Our volunteers always ask people to take a photo of their claim check when they drop off a bike, just in case.
 
 1. _How much space do we need?_
 
-  Two regular car parking spaces (and room for a table) is the minimum size for it to be practical. We've found that (with sufficient advertising) we reach capacity more often than not, so the more space the better!
+    Two regular car parking spaces (and room for a table) is the minimum size for it to be practical. We've found that (with sufficient advertising) we reach capacity more often than not, so the more space the better!
 
 1. _Why do you and your volunteers do this?_
 
-  Making contact with people who ride bikes is crucial to our goal of making Phoenix a friendlier, more welcoming place to ride a bike.
-  We'll set up our table with additional information, and our volunteers are always eager to answer any questions people might have about riding a bike in Phoenix.
+    Making contact with people who ride bikes is crucial to our goal of making Phoenix a friendlier, more welcoming place to ride a bike.
+    We'll set up our table with additional information, and our volunteers are always eager to answer any questions people might have about riding a bike in Phoenix.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kWZKBUj4sgc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
