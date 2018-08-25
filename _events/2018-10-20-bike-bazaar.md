@@ -15,4 +15,6 @@ Find your bike bliss at the Fourth annual Bike Bazaar at the Phoenix Public Mark
 
 Bike Bazaar vendors will be located along Pierce Street.
 
-Free Admission and a raffle! Stay tuned!
+Registration for vendors is only $5 to Phoenix Spokes People, and 10% of sales at the end of the day for Phoenix Public Market. [Register as a vendor here!](http://psp.bike/bazaarvendor)
+
+Free Admission and a raffle!
