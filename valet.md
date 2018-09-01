@@ -17,16 +17,13 @@ They're an easy target for thieves, especially if there are no dedicated bike ra
 Phoenix Spokes People are _happy to offer a solution to this_:
 Why not include a **bike valet** at your next event?
 
-It works just like 'car valet':
+It works just like 'car valet', attendees drop their bikes with us, and:
 
-- Attendees bring their bikes to our valet station where a volunteer will explain the process:
-- We will take their bike and store it on a portable rack...
-- attaching one half of one of our custom made claim checks to it
-- and giving the other half to your event attendee.
-- Each claim check has a unique number,
-- so when they are ready to leave the event they'll exchange it for their bike.
+- We will take their bike and store it on a portable rack, and tag it with a claim check.
+- Each claim check has a unique number, and a portion for your attendee to keep.
+- When they leave the event they'll exchange it for their bike. **Easy!**
 
-![empty field with bike valet set up](/images/valet-lost-lake-day.jpg)
+![bike valet claim checks](/images/valet-claim-checks.jpg)
 
 ## Our asks
 
