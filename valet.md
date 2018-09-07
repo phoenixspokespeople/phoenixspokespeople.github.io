@@ -31,7 +31,6 @@ We offer this service **free of charge**, but we'll need your help with a few th
 
 1. Be sure to advertise the presence of the bike valet across all media, we want to be sure that people we know they can easily park their bikes!
 1. We'll need a secure area in which to set up. Temporary fences are perfect, but we can work around walls (e.g. in a parking lot) too.
-1. The portable bike racks are kindly loaned to us by Valley Metro, so you'll need to complete [this form](/vm-bike-rack-loan-form.pdf).
 1. If you can provide a table and chairs, and better yet a pop up tent, that'd be great.
 1. Of course, any perks you can offer (e.g. tickets) would be much appreciated by our volunteers!
 
