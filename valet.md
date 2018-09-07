@@ -9,17 +9,17 @@ image:
 
 ## Explained
 
-If there's one thing we can be sure of, it's that people would **love to ride a bike to your event**.
+We can be sure of this: People would **love to ride a bike to your event**.
 
 Unfortunately we're all familiar with the risk of locking up bicycles in public areas:
-They're an easy target for thieves, especially if there are no dedicated bike racks available, or they are all filled up.
+They're an **easy target for thieves**, especially if there are **no dedicated bike racks** available.
 
 Phoenix Spokes People are _happy to offer a solution to this_:
 Why not include a **bike valet** at your next event?
 
 It works just like 'car valet', attendees drop their bikes with us, and:
 
-- We will take their bike and store it on a portable rack, and tag it with a claim check.
+- We will take their bike, **store it on a portable rack**, and tag it with a claim check.
 - Each claim check has a unique number, and a portion for your attendee to keep.
 - When they leave the event they'll exchange it for their bike. **Easy!**
 
