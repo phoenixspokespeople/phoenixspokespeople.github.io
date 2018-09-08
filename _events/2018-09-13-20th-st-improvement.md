@@ -1,4 +1,3 @@
-
 ---
 title: "20th Street Improvement Project"
 published: true
