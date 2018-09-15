@@ -1,6 +1,6 @@
 ---
 title: "20th Street Improvement Project"
-published: true
+published: false
 excerpt: "Join us in showing your support for an improvement project on 20th Street"
 image:
   feature: public-input-bike-lanes.jpg
