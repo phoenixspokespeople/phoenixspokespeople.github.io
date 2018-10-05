@@ -1,6 +1,6 @@
 ---
 title: "September Public Meeting"
-published: true
+published: false
 excerpt: "Join us for our September Meeting"
 facebook-event: 910912762629853
 image:
