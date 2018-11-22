@@ -6,11 +6,10 @@ skip-title: false
 image:
   teaser: luminaria-square.jpg
   feature: luminaria.jpg
-facebook-event: 
 
 ---
 
-We will be hosting our annual Luminaria Ride though the Willo neighborhood on **Saturday, December 22**.
+We will be hosting our annual Luminaria Ride though the Willo neighborhood on **Sunday, December 23rd**.
 It's an easy family-friendly ride around the neighborhood to enjoy the luminarias when it gets dark.
 
 We'll meet at [Walton Park](https://goo.gl/maps/H2fsV4sbJQt), at 3rd Ave. & Holly at 5:30 pm. for a **6 p.m. rollout**
