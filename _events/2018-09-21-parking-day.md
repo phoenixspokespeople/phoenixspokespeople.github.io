@@ -1,6 +1,6 @@
 ---
 title: "PARK(ing) Day 2018"
-published: true
+published: false
 excerpt: "On Friday, Sept. 21, parking spaces around the globe to be temporarily reclaimed for people!"
 image:
   teaser: parking-day-square.png
