@@ -12,7 +12,7 @@ facebook-event: 189639488637457
 We will be hosting our annual Luminaria Ride though the Willo neighborhood on **Sunday, December 23rd**.
 It's an easy family-friendly ride around the neighborhood to enjoy the luminarias when it gets dark.
 
-We'll meet at [Walton Park](https://goo.gl/maps/H2fsV4sbJQt), at 3rd Ave. & Holly at 5:30 pm. for a **6 p.m. rollout**
+We'll meet at [Walton Park](https://goo.gl/maps/H2fsV4sbJQt), at 3rd Ave. & Holly for a **6:30 p.m. rollout**
 
 The First Place Coffee truck will be at the park from 5 to 8 p.m. selling hot chocolate and other warm beverages.
 
