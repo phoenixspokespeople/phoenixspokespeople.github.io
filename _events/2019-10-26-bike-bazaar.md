@@ -3,6 +3,7 @@ title: "Fifth annual Bike Bazaar"
 published: true
 excerpt: "a special day of bicycle wares and bike goodness"
 skip-title: true
+facebook-event: 357731008267051
 image:
   teaser: phoenix-public-market-open-air-market.png
   feature: bike-bazaar-banner.jpg
