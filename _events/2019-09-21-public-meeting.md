@@ -1,6 +1,6 @@
 ---
 title: "September Public Meeting"
-published: true
+published: false
 excerpt: "Join us for our September Meeting"
 image:
   feature: public-meeting-banner.jpg
