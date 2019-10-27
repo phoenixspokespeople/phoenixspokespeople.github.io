@@ -7,6 +7,8 @@ image:
   feature: valet-header.jpg
 ---
 
+Looking for **volunteer opportunities**? Click **[here](https://mailchi.mp/255e57a6798b/so-many-bike-valets-coming-up-2303041)**.
+
 ## Explained
 
 We can be sure of this: People would **love to ride a bike to your event**.
