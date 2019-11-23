@@ -1,6 +1,6 @@
 ---
 title: "Fifth annual Bike Bazaar and Ride"
-published: true
+published: false
 excerpt: "a special day of bicycle wares and bike goodness"
 skip-title: true
 facebook-event: 357731008267051

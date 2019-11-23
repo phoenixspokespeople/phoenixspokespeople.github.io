@@ -1,6 +1,6 @@
 ---
 title: "Public Mtg for Roosevelt Bike Lanes"
-published: true
+published: false
 excerpt: "This is a Call To Action to demand bike lanes on Roosevelt at this public meeting. "
 skip-title: false
 facebook-event: 387490315258648
