@@ -1,6 +1,6 @@
 ---
 title: "Sixth Annual Luminaria Tour"
-published: true
+published: false
 excerpt: "Our annual Luminaria Ride though the Willo neighborhood"
 skip-title: false
 image:
