@@ -14,8 +14,6 @@ It's an easy family-friendly ride around the neighborhood to enjoy the luminaria
 
 We'll meet at [Walton Park](https://goo.gl/maps/H2fsV4sbJQt), at 3rd Ave. & Holly. The ride will leave Walton Park at 6:30 p.m. and will last about an hour.
 
-The First Place Coffee truck will be at the park from 5 to 8 p.m. selling hot chocolate and other warm beverages.
-
 The Willo Vision 3.5 committee will be selling strands of electroluminescent wire to decorate and brighten bikes (cash appreciated). This is a great time to "winterize" your bike with lots of festive lights, and maybe even a bell!
 
 <iframe
