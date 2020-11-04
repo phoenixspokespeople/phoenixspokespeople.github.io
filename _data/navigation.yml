@@ -8,9 +8,9 @@
   url: /contact/
   excerpt: "Get in touch with us"
 
-- title: Events
-  url: /events/
-  excerpt: "Bicycle related events in Phoenix"
+# - title: Events
+#  url: /events/
+#  excerpt: "Bicycle related events in Phoenix"
 
 - title: Valet
   url: /valet/
