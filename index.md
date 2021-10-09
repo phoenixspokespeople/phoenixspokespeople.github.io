@@ -37,6 +37,6 @@ permalink: /
 
 <div style="clear: both;">
 <p style="text-align: center;">
-  Keep up to date via <a href="contact/">our mailing list and social media</a>, then:
+  Keep up to date via <a href="contact/">our mailing list and social media</a>.
 </p>
 </div>
