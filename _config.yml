@@ -1,5 +1,6 @@
 # Site wide configuration
 
+url: https://www.phoenixspokespeople.org/
 title: Phoenix Spokes People
 description: Inspiring cycling as a transportation option for the city of Phoenix.
 logo: 'logo-banner.svg'
