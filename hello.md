@@ -23,6 +23,6 @@ Sign up for our mailing list:
 
 <a href="https://www.change.org/o/3251077">See our petitions.</a>
 
-<a href="https://twitter.com/phxspokespeople">Follow us on Twitter.</a
+<a href="https://twitter.com/phxspokespeople">Follow us on Twitter.</a>
 
 <a href="https://www.facebook.com/PhoenixSpokesPeople">Like us on Facebook.</a>
