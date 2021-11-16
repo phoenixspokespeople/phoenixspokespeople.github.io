@@ -22,5 +22,4 @@ To reach out to any of the board, please send an email to [info@phoenixspokespeo
 * Joe Perez
 * Lara Sands
 * Natasha Hughes
-* Omar Peters
 * Yvette Duenas
