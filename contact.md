@@ -28,6 +28,7 @@ and join in with the discussion!
 
 {% include twitter-badge.html %}
 {% include facebook-page-badge.html %}
+{% include ig-nametag.html %}
 
 
 ## Send us an email
