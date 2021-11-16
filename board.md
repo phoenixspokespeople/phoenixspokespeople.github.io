@@ -21,8 +21,6 @@ To reach out to any of the board, please send an email to [info@phoenixspokespeo
 * Suzanne Day
 * Joe Perez
 * Lara Sands
-* Lisa Parks
 * Natasha Hughes
 * Omar Peters
-* Sheri Geiss
 * Yvette Duenas
