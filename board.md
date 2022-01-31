@@ -15,11 +15,13 @@ To reach out to any of the board, please send an email to [info@phoenixspokespeo
 
 **Treasurer**: John Walker
 
+**Secretary**: Lara Sands
+
 ## Members-at Large
 
 * Annie Eldon
 * Suzanne Day
 * Joe Perez
-* Lara Sands
 * Natasha Hughes
 * Yvette Duenas
+* Spencer Dew
