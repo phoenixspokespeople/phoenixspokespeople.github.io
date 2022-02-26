@@ -21,8 +21,10 @@ Sign up for our mailing list:
 
 {% include mailchimp-signup.html %}
 
-<a href="https://www.change.org/o/3251077">See our petitions.</a>
+<a href="mailto:hello@phoenixspokespeople.org">Send us an email.</a>
 
 <a href="https://twitter.com/phxspokespeople">Follow us on Twitter.</a>
+
+<a href="https://www.instagram.com/phxspokespeople">Follow us on Instagram.</a>
 
 <a href="https://www.facebook.com/PhoenixSpokesPeople">Like us on Facebook.</a>
