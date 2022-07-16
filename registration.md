@@ -22,7 +22,7 @@ To expedite the process, consider printing and pre-filling the [**Agreement & Af
 
 Note: **The bike you are registering must be present** (it is not sufficient to fill and drop the form).
 
-* 601 E Fillmore, Phoenix
+* [5th St & McKinley](https://g.page/dtphxfarmersmarket?share)
 * Look for the Evans Churchill tent!
 
 
