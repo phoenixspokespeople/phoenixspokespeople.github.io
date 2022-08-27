@@ -23,8 +23,8 @@ How to help support the Phoenix Spokes People mission by becoming a supporting m
 
 We have two plans available:
 
-* $20 Annual membership ([join](https://psp.bike/membership))
-* $15 Annual student membership ([join](https://psp.bike/student))
+* $20 Annual membership: [**Click here to join**](https://psp.bike/membership))
+* $15 Annual student membership: ([**Click here to join**](https://psp.bike/student))
 
 ## Sponsors and gratitude
 
