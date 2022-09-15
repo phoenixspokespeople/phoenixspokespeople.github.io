@@ -7,7 +7,7 @@ image:
   feature: valet-header.jpg
 ---
 
-Looking for **volunteer opportunities**? Shoot use an email at [valet@phoenixspokespeople.org](mailto:valet@phoenixspokespeople.org)**.
+Looking for **volunteer opportunities**? Shoot use an email at **[valet@phoenixspokespeople.org](mailto:valet@phoenixspokespeople.org)**.
 
 ## Explained
 
@@ -39,7 +39,7 @@ We offer this service **free of charge**, but we'll need your help with a few th
 
 ## Logistics
 
-Our volunteers will arrive during set up time on the day of your event with Valley Metro's portable bike racks, we'll set up the racks, table, and signage.
+Our volunteers will arrive during set up time on the day of your event with [portable bike racks](https://movedbybikes.com/collections/products/products/mbb-valet-rack-event-stand), we'll set up the racks, table, and signage.
 
 We will stay until all the bikes are claimed, or it's obvious that someone has forgotten to claim theirs (see below).
 
