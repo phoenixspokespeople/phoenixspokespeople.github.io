@@ -37,7 +37,7 @@ permalink: /
 
 <div style="clear: both;">
 <p style="text-align: center;">
-  Keep up to date via <a href="contact/">our mailing list and social media</a>.
+  Keep up to date via <a href="contact/">our mailing list and social media</a> or <a rel="me" href="https://urbanists.social/@psp">Mastodon</a>
 </p>
 <p style="text-align: center;">
   See our <a href="https://www.change.org/o/3251077">petitions</a>.
