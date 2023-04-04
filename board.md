@@ -5,7 +5,7 @@ title: "Board of Directors"
 share: false
 ---
 
-To reach out to any of the board, please send an email to [info@phoenixspokespeople.org](mailto:info@phoenixspokespeople.org), and we'll make sure it finds them!
+To reach out to any of the board, please send an email to [hello@phoenixspokespeople.org](mailto:hello@phoenixspokespeople.org), and we'll make sure it finds them!
 
 ## Officers
 
