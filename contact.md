@@ -26,8 +26,12 @@ We'll send you [a monthly newsletter](http://psp.bike/newsletter), keeping you u
 Let us curate all the bike related social media you need,
 and join in with the discussion!
 
+[Mastodon](https://urbanists.social/@psp)
+
+[Facebook](https://www.facebook.com/PhoenixSpokesPeople)
+
 {% include twitter-badge.html %}
-{% include facebook-page-badge.html %}
+
 {% include ig-nametag.html %}
 
 
