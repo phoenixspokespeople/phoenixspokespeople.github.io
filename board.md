@@ -9,7 +9,7 @@ To reach out to any of the board, please send an email to [hello@phoenixspokespe
 
 ## Officers
 
-**President**: Bill McComas
+**President**: Annie Eldon
 
 **Vice President**: Dave Tapley
 
@@ -19,9 +19,10 @@ To reach out to any of the board, please send an email to [hello@phoenixspokespe
 
 ## Members-at Large
 
-* Annie Eldon
+* David Bickford
 * Suzanne Day
-* Joe Perez
 * Natasha Hughes
-* Yvette Duenas
-* Spencer Dew
+* Bill McComas
+* Luke Parker
+* Jay Plummer
+* Laura Plummer
