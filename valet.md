@@ -7,7 +7,7 @@ image:
   feature: valet-header.jpg
 ---
 
-Looking for **volunteer opportunities**? Send us an email at **[valet@phoenixspokespeople.org](mailto:valet@phoenixspokespeople.org)**.
+Looking for **volunteer opportunities**? Check out our [signup.com page](https://signup.com/go/irKcAjH).
 
 ## Explained
 
