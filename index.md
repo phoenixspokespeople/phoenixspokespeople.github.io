@@ -8,7 +8,7 @@ permalink: /
 <div class="tile">
   <h2 class="post-title">Who?</h2>
   <p class="post-excerpt">
-    We are a group of cyclists dedicated to making Phoenix a friendlier, more welcoming place to ride a bike.
+    We are a non-profit organization dedicated to making Phoenix a friendly, safe, and welcoming place to ride a bike.
   </p>
 </div><!-- /.tile -->
 
