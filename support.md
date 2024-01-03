@@ -19,7 +19,7 @@ Our Linktree at [psp.bike](https://psp.bike/) is a great resource for:
 
 We have opportunities such as:
 
-* Planning [events](/events) with our **Bike Fun Committee**.
+* Planning events with our **Bike Fun Committee**.
 * Assisting our [bike valet](/valet) service.
 * Reaching out and advocating for our mission.
 
