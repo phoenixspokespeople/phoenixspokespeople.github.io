@@ -21,6 +21,7 @@ We believe that bicycling should be an easily accessible form of transportation 
 
 ## Corporate Documents
 
+- [Agendas and Meeting Minutes](https://drive.google.com/drive/u/1/folders/1UUcWVOd7tByc4B2eLI2RymG4a4l4ecBt).
 - [Board of Directors](/board).
 - [Articles of Incorporation](https://docs.google.com/document/d/1f5lctXPaGWGS4yP_5cq3_0TsAni81vIGUwy0TrTsyeo/edit?usp=sharing).
 - [Bylaws](https://docs.google.com/document/d/1TJQ2fjzjlBBzKIj8BE2IIzGH-J550SYQ3N0ZYGbSyfQ/edit?usp=sharing).
