@@ -9,20 +9,20 @@ To reach out to any of the board, please send an email to [hello@phoenixspokespe
 
 ## Officers
 
-**President**: Annie Eldon
+**President**: David Bickford
 
-**Vice President**: Dave Tapley
+**Vice President**: Jay Plummer
 
 **Treasurer**: John Walker
 
-**Secretary**: Lara Sands
+**Secretary**: Laura Plummer
 
 ## Members-at Large
 
-* David Bickford
+* Jamie Trufin
 * Suzanne Day
-* Natasha Hughes
-* Bill McComas
-* Luke Parker
-* Jay Plummer
-* Laura Plummer
+* Bill McComis
+* Annie Eldon
+* Lara Sands
+* Dave Tapley
+
